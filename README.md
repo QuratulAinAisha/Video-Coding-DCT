@@ -44,7 +44,7 @@ pip install numpy matplotlib
 2. Run the script to perform DCT, quantization, and iDCT on the Y channel of the YUV video. The reconstructed frames will be saved in a new YUV file.
 
    ```bash
-   python DCT_yuv.py
+   python DCTYUV.py
    ```
 
 3. The output file will be saved as `reconstructedForeman.yuv` in the working directory.
